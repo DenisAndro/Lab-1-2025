@@ -1,0 +1,8 @@
+prefect==2.20.0
+requests==2.32.3
+pandas==2.2.2
+python-dotenv==1.0.1
+minio==7.2.7
+clickhouse-connect==0.7.19
+
+# =П.С= Мб докинуть что-то еще, но вроде все ок пока
